@@ -11,7 +11,7 @@
     <li>pip install afinn</li>
     <li>pip install adjustText</li>
     <li>pip install tqdm</li>
-    <li>pip install beautiflisoup4</li>
+    <li>pip install beautifulsoup4</li>
     <li>pip install gensim</li>
     <li>nltk.download("punkt") # import nltk</li>
     <li>nltk.download("stopwords") # import nltk</li> 
