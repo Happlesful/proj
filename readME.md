@@ -13,10 +13,10 @@
     <li>pip install tqdm</li>
     <li>pip install beautiflisoup4</li>
     <li>pip install gensim</li>
-    <li>nltk.download("punkt")</li> # import nltk
-    <li>nltk.download("stopwords")</li> # import nltk
-    <li>nltk.download("wordnet")</li> # import nltk
-    <li>nltk.download("omw-1.4")</li> # import nltk
+    <li>nltk.download("punkt") # import nltk</li>
+    <li>nltk.download("stopwords") # import nltk</li> 
+    <li>nltk.download("wordnet") # import nltk</li> 
+    <li>nltk.download("omw-1.4") # import nltk</li> 
 </ul>
 
 ### Case 1
