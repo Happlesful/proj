@@ -7,17 +7,17 @@
 
 ### Packages to install
 
-<li>
-    <ul>pip install afinn</ul>
-    <ul>pip install adjustText</ul>
-    <ul>pip install tqdm</ul>
-    <ul>pip install beautifulsoup4</ul>
-    <ul>pip install gensim</ul>
-    <ul>nltk.download("punkt")</ul> # import nltk
-    <ul>nltk.download("stopwords")</ul> # import nltk
-    <ul>nltk.download("wordnet")</ul> # import nltk
-    <ul>nltk.download("omw-1.4")</ul> # import nltk
-</li>
+<ul>
+    <li>pip install afinn</li>
+    <li>pip install adjustText</li>
+    <li>pip install tqdm</li>
+    <li>pip install beautiflisoup4</li>
+    <li>pip install gensim</li>
+    <li>nltk.download("punkt")</li> # import nltk
+    <li>nltk.download("stopwords")</li> # import nltk
+    <li>nltk.download("wordnet")</li> # import nltk
+    <li>nltk.download("omw-1.4")</li> # import nltk
+</ul>
 
 ### Case 1
 
@@ -31,7 +31,7 @@
 
 #### Using both text and ratings
 
-<li>
-    <ul>Place the `history.xlsx` file in to the current working directory</ul>
-    <ul>Bidrectional LSTM model will take approximately 40mins to train</ul>
-</li>
+<ul>
+    <li>Place the `history.xlsx` file in to the current working directory</li>
+    <li>Bidrectional LSTM model will take approximately 40mins to train</li>
+</ul>
