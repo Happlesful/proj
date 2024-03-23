@@ -1,7 +1,7 @@
 ### Setting the working directory
 
 <ol>
-    <li>If current working directory is incorrect, use os.chdir("<path>")</li>
+    <li>If current working directory is incorrect, use `os.chdir("path")`</li>
     <li>Edit the name of the data file from "Movie Review" into "MovieReview" and should be contained in the current working directory</li>
 </ol>
 
