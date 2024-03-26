@@ -33,5 +33,5 @@
 
 <ul>
     <li>Place the `history.xlsx` file in to the current working directory</li>
-    <li>Bidrectional LSTM model will take approximately 40mins to train</li>
+    <li>Bidrectional LSTM model will take approximately 20mins to train</li>
 </ul>
